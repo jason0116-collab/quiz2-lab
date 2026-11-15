@@ -1,7 +1,5 @@
-# Quiz2 Lab
+# KU Finance MBA Study Lab
 
-Password-protected personal practice site, hosted with GitHub Pages.
+Password-protected personal study site (quizzes, midterm/final prep, cheat sheets), hosted with GitHub Pages. by Jamsil Jubu.
 
-Only an AES-256-GCM encrypted application is committed. The password and decrypted question bank are not stored in this repository.
-
-Open the GitHub Pages URL and enter the password provided separately.
+Only an AES-256-GCM encrypted application is committed. The password and decrypted content are not stored in this repository.
