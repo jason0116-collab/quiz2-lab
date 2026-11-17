@@ -1,4 +1,4 @@
-# KU Finance MBA Study Lab
+# Study Lab
 
 Password-protected personal study site (quizzes, midterm/final prep, cheat sheets), hosted with GitHub Pages. by Jamsil Jubu.
 
